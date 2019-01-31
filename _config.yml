@@ -30,6 +30,7 @@ exclude:
   - vendor
   - travis
   - ndt
+  - docs
 
 # Markdown settings
 markdown: kramdown
