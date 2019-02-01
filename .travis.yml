@@ -13,6 +13,3 @@ script:
 - sudo python3 -m pip install jupyter nbconvert
 - "./_tests/travis-checks --quick"
 
-after_success:
-  - .travis/push.sh
-
